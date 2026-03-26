@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f0f0;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin: 10px 100px 10px 100px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-top: #333 solid 5px;
+}
+
+h2 {
+    color: #555;
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+.lorem {
+    color: #666;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card_CSS {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-top: #333 solid 5px;
+}

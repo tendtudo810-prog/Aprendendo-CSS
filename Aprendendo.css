@@ -1,0 +1,14 @@
+sla {
+    text-align: center; /* Centraliza o texto dentro do elemento */
+
+}
+
+.card { 
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-top: #333 solid 5px;
+} /* O card é um CSS para criar um estilo de cartão, com fundo branco, bordas arredondadas, sombra e espaçamento interno. Ele é centralizado na página e tem uma borda superior sólida. */
