@@ -16,7 +16,7 @@ h1 {
     border-radius: 20px 100px;
     text-align: center;
     margin: 90px auto;
-    width: 80%;
+    width: 100%;
 }
 
 .card {
@@ -29,7 +29,53 @@ h1 {
 }
 
 h2 {
-    margin: 0 auto;
+    margin: auto;
     color: #373E40;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik'
 }
+
+#area-login {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 50px;
+    border: 2px solid #373E40;
+}
+
+.header {
+    width: 100%;
+    margin: 10px auto;
+    gap: 20px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.button {
+    background-color: #373E40;
+    border-radius: 4px;
+    color: #FFFFFF;
+    width: 100px;
+}
+
+.search {
+    border: 2px solid #373E40;
+    width: 600px;
+    border-radius: 5px;
+}
+
+input {
+    border-radius: 8px;
+}
+
+input[type="email"] {
+    background-color: #373E40;
+    color:#FFFFFF
+}
+
+.button:hover {
+    background-color: brown;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
